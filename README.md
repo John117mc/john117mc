@@ -2,7 +2,6 @@
 
 ## I'm a student who wants to become a data scientist and loves leveraging data-driven solutions that impact business and society!
 
-- 💻 I really like technology
 - 📚 I'm working to become a Data Scientist
 - 📈 I’m constantly learning and Improving my skills
 
