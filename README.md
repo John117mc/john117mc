@@ -1,6 +1,6 @@
 ### João Vitor 👋
 
-## I'm a student who wants to become a data scientist and loves leveraging data-driven solutions that impact business and society!
+## I'm a student who wants to become a programmer and loves leveraging data-driven solutions that impact business and society!
 
 - 📚 I'm working to become a Data Scientist
 - 📈 I’m constantly learning and Improving my skills
