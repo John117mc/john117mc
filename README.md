@@ -7,8 +7,8 @@
 
 ### Connect with me:
 
-[<img align="left"  width="22px" src="https://image.flaticon.com/icons/png/512/124/124011.png" />](https://www.linkedin.com/in/jo%C3%A3o-vitor-86233220b/)
-[<img align="left" alt="joaovitor._.30 | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png" />](https://www.instagram.com/joaovitor._.30/)
+[<img align="left"  width="22px" src="https://image.flaticon.com/icons/png/512/124/124011.png" />](https://www.linkedin.com/in/joaovitps/)
+[<img align="left" alt="joaovit.30 | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png" />](https://www.instagram.com/joaovit.30/)
 
 <br />
 
