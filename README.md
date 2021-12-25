@@ -2,17 +2,7 @@
 #
 
 - 📚 I'm working to become a Data Scientist
-- 📈 I’m constantly learning and Improving my skills
-
-
-### Skills:
-
-<div style="display: inline_block">
-<img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" />
-<img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-<img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-</div>
+- 📈 I’m constantly learning and improving my skills
 
 
 ### Connect with me:
