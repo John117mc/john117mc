@@ -1,4 +1,4 @@
-### Hi! I am João Vitor 👋
+### Hi! I am John 👋
 
 #
 
